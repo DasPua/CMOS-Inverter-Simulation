@@ -1,4 +1,4 @@
-# LTspice--CMOS-Inverter-
+# CMOS-Inverter-
 Voltage Transfer Characteristic curve of CMOS is plotted in LTspice. 
 
 ![CMOS Inverter with model files](https://github.com/Sandeep1203tech/LTspice--CMOS-Inverter-/assets/78650502/845ab2b2-58f0-48a0-ac3e-ddb67bc17775)
